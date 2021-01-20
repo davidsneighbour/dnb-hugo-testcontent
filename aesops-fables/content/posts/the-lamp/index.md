@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Lamp"
 description: ""
-date: 2021-01-20T19:03:26+07:00
+date: 2015-04-14T13:55:45
 lastmod: 2021-01-20T19:03:26+07:00
 url: /2021/01/the-lamp
 tags:

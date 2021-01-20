@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Blind Man and the Whelp"
 description: ""
-date: 2021-01-20T19:03:53+07:00
+date: 2017-05-16T17:16:44
 lastmod: 2021-01-20T19:03:53+07:00
 url: /2021/01/the-blind-man-and-the-whelp
 tags:

@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Gamecocks and the Partridge"
 description: ""
-date: 2021-01-20T19:03:56+07:00
+date: 2018-12-13T19:25:55
 lastmod: 2021-01-20T19:03:56+07:00
 url: /2021/01/the-gamecocks-and-the-partridge
 tags:

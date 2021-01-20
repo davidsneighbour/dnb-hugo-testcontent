@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The She Goats and Their Beards"
 description: ""
-date: 2021-01-20T19:04:15+07:00
+date: 2018-05-09T23:25:24
 lastmod: 2021-01-20T19:04:15+07:00
 url: /2021/01/the-she-goats-and-their-beards
 tags:

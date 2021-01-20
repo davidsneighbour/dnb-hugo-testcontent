@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Heifer and the Ox"
 description: ""
-date: 2021-01-20T19:02:56+07:00
+date: 2020-06-22T12:04:33
 lastmod: 2021-01-20T19:02:56+07:00
 url: /2021/01/the-heifer-and-the-ox
 tags:

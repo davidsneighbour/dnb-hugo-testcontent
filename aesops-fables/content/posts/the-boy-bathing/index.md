@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Boy Bathing"
 description: ""
-date: 2021-01-20T19:03:43+07:00
+date: 2018-02-21T11:37:49
 lastmod: 2021-01-20T19:03:43+07:00
 url: /2021/01/the-boy-bathing
 tags:

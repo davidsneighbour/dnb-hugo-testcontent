@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Trumpeter Taken Prisoner"
 description: ""
-date: 2021-01-20T19:04:00+07:00
+date: 2018-08-08T15:43:41
 lastmod: 2021-01-20T19:04:00+07:00
 url: /2021/01/the-trumpeter-taken-prisoner
 tags:

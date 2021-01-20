@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Spendthrift and the Swallow"
 description: ""
-date: 2021-01-20T19:03:59+07:00
+date: 2018-12-22T11:24:52
 lastmod: 2021-01-20T19:03:59+07:00
 url: /2021/01/the-spendthrift-and-the-swallow
 tags:

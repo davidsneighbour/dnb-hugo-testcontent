@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Charger and the Miller"
 description: ""
-date: 2021-01-20T19:02:50+07:00
+date: 2016-08-02T00:09:33
 lastmod: 2021-01-20T19:02:50+07:00
 url: /2021/01/the-charger-and-the-miller
 tags:

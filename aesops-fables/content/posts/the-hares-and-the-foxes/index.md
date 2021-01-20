@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Hares and the Foxes"
 description: ""
-date: 2021-01-20T19:03:31+07:00
+date: 2019-08-10T12:37:05
 lastmod: 2021-01-20T19:03:31+07:00
 url: /2021/01/the-hares-and-the-foxes
 tags:

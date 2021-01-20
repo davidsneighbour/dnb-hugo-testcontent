@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Stag at the Pool"
 description: ""
-date: 2021-01-20T19:04:06+07:00
+date: 2020-01-31T10:16:53
 lastmod: 2021-01-20T19:04:06+07:00
 url: /2021/01/the-stag-at-the-pool
 tags:

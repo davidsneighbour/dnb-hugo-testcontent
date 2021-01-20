@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Seller of Images"
 description: ""
-date: 2021-01-20T19:03:44+07:00
+date: 2018-11-21T11:48:51
 lastmod: 2021-01-20T19:03:44+07:00
 url: /2021/01/the-seller-of-images
 tags:

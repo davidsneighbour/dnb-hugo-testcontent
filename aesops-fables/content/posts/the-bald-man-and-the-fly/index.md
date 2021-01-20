@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Bald Man and the Fly"
 description: ""
-date: 2021-01-20T19:04:24+07:00
+date: 2020-07-06T08:15:08
 lastmod: 2021-01-20T19:04:24+07:00
 url: /2021/01/the-bald-man-and-the-fly
 tags:

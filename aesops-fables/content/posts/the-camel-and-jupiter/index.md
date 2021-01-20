@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Camel and Jupiter"
 description: ""
-date: 2021-01-20T19:04:23+07:00
+date: 2016-04-29T22:19:53
 lastmod: 2021-01-20T19:04:23+07:00
 url: /2021/01/the-camel-and-jupiter
 tags:

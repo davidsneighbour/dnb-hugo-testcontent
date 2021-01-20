@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Two Men Who Were Enemies"
 description: ""
-date: 2021-01-20T19:03:56+07:00
+date: 2018-12-13T08:22:23
 lastmod: 2021-01-20T19:03:56+07:00
 url: /2021/01/the-two-men-who-were-enemies
 tags:

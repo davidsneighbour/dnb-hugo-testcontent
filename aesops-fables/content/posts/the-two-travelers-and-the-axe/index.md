@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Two Travelers and the Axe"
 description: ""
-date: 2021-01-20T19:03:09+07:00
+date: 2018-06-05T19:59:20
 lastmod: 2021-01-20T19:03:09+07:00
 url: /2021/01/the-two-travelers-and-the-axe
 tags:

@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Hen and the Golden Eggs"
 description: ""
-date: 2021-01-20T19:03:27+07:00
+date: 2015-05-26T09:56:03
 lastmod: 2021-01-20T19:03:27+07:00
 url: /2021/01/the-hen-and-the-golden-eggs
 tags:

@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Wolf and the Housedog"
 description: ""
-date: 2021-01-20T19:03:06+07:00
+date: 2019-01-17T08:42:06
 lastmod: 2021-01-20T19:03:06+07:00
 url: /2021/01/the-wolf-and-the-housedog
 tags:

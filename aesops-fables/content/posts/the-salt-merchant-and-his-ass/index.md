@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Salt Merchant and His Ass"
 description: ""
-date: 2021-01-20T19:02:44+07:00
+date: 2016-02-13T06:40:01
 lastmod: 2021-01-20T19:02:44+07:00
 url: /2021/01/the-salt-merchant-and-his-ass
 tags:

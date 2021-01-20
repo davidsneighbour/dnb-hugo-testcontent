@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Rich Man and the Tanner"
 description: ""
-date: 2021-01-20T19:04:21+07:00
+date: 2017-03-12T11:07:10
 lastmod: 2021-01-20T19:04:21+07:00
 url: /2021/01/the-rich-man-and-the-tanner
 tags:

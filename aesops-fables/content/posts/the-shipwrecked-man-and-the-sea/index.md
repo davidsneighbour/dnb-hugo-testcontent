@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Shipwrecked Man and the Sea"
 description: ""
-date: 2021-01-20T19:04:21+07:00
+date: 2017-01-18T00:53:06
 lastmod: 2021-01-20T19:04:21+07:00
 url: /2021/01/the-shipwrecked-man-and-the-sea
 tags:

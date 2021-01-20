@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Boy Hunting Locusts"
 description: ""
-date: 2021-01-20T19:02:24+07:00
+date: 2017-07-24T16:20:46
 lastmod: 2021-01-20T19:02:24+07:00
 url: /2021/01/the-boy-hunting-locusts
 tags:
