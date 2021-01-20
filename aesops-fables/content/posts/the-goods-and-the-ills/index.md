@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Goods and the Ills"
 description: ""
-date: 2016-01-21T14:29:41
+date: 2019-10-18T08:19:12
 lastmod: 2021-01-20T19:04:01+07:00
 url: /2021/01/the-goods-and-the-ills
 tags:

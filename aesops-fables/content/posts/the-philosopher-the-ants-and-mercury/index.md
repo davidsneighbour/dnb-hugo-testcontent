@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Philosopher, the Ants, and Mercury"
 description: ""
-date: 2019-06-19T23:55:54
+date: 2017-11-18T12:19:06
 lastmod: 2021-01-20T19:03:20+07:00
 url: /2021/01/the-philosopher,-the-ants,-and-mercury
 tags:

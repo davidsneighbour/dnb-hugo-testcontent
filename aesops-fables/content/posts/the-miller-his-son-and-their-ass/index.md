@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Miller, His Son, and Their Ass"
 description: ""
-date: 2017-10-27T13:22:22
+date: 2019-09-07T08:38:32
 lastmod: 2021-01-20T19:04:16+07:00
 url: /2021/01/the-miller,-his-son,-and-their-ass
 tags:

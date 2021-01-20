@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Man and the Satyr"
 description: ""
-date: 2015-07-24T02:05:58
+date: 2020-02-26T22:58:20
 lastmod: 2021-01-20T19:04:04+07:00
 url: /2021/01/the-man-and-the-satyr
 tags:

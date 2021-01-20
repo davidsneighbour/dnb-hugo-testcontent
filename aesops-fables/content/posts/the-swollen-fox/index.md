@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Swollen Fox"
 description: ""
-date: 2015-07-29T20:26:57
+date: 2020-11-02T18:29:02
 lastmod: 2021-01-20T19:03:16+07:00
 url: /2021/01/the-swollen-fox
 tags:

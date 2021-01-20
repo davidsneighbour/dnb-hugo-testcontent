@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Fighting Cocks and the Eagle"
 description: ""
-date: 2019-12-12T14:08:10
+date: 2015-06-04T13:36:46
 lastmod: 2021-01-20T19:02:49+07:00
 url: /2021/01/the-fighting-cocks-and-the-eagle
 tags:

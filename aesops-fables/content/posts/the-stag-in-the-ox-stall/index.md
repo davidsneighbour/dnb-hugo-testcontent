@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Stag in the Ox Stall"
 description: ""
-date: 2019-12-31T22:05:41
+date: 2016-11-21T20:26:24
 lastmod: 2021-01-20T19:03:01+07:00
 url: /2021/01/the-stag-in-the-ox-stall
 tags:

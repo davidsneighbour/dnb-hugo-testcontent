@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Swallow, the Serpent, and the Court of Justice"
 description: ""
-date: 2016-01-19T22:35:37
+date: 2019-07-01T03:50:58
 lastmod: 2021-01-20T19:02:56+07:00
 url: /2021/01/the-swallow,-the-serpent,-and-the-court-of-justice
 tags:

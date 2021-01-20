@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Jackdaw and the Fox"
 description: ""
-date: 2019-06-19T05:35:12
+date: 2019-10-04T17:56:58
 lastmod: 2021-01-20T19:04:06+07:00
 url: /2021/01/the-jackdaw-and-the-fox
 tags:

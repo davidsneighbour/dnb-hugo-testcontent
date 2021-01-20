@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Man Bitten by a Dog"
 description: ""
-date: 2019-09-27T09:33:40
+date: 2020-10-01T14:22:05
 lastmod: 2021-01-20T19:02:58+07:00
 url: /2021/01/the-man-bitten-by-a-dog
 tags:

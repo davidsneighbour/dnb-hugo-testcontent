@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Dog in the Manger"
 description: ""
-date: 2017-08-15T06:19:05
+date: 2016-05-14T13:31:36
 lastmod: 2021-01-20T19:02:33+07:00
 url: /2021/01/the-dog-in-the-manger
 tags:

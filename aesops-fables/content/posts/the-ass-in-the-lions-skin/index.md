@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Ass in the Lion’s Skin"
 description: ""
-date: 2015-09-24T07:16:13
+date: 2017-06-02T04:40:46
 lastmod: 2021-01-20T19:04:00+07:00
 url: /2021/01/the-ass-in-the-lion’s-skin
 tags:

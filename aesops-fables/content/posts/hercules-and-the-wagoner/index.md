@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "Hercules and the Wagoner"
 description: ""
-date: 2020-12-06T19:45:57
+date: 2018-12-02T06:33:55
 lastmod: 2021-01-20T19:02:26+07:00
 url: /2021/01/hercules-and-the-wagoner
 tags:

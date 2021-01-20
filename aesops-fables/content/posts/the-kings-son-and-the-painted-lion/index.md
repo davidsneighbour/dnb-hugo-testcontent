@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The King’s Son and the Painted Lion"
 description: ""
-date: 2018-06-29T22:35:06
+date: 2013-02-12T08:47:45
 lastmod: 2021-01-20T19:04:14+07:00
 url: /2021/01/the-king’s-son-and-the-painted-lion
 tags:

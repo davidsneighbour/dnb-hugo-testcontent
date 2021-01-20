@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Thrush and the Fowler"
 description: ""
-date: 2015-11-27T15:37:58
+date: 2017-07-24T23:29:31
 lastmod: 2021-01-20T19:04:25+07:00
 url: /2021/01/the-thrush-and-the-fowler
 tags:

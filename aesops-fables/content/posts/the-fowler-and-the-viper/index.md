@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Fowler and the Viper"
 description: ""
-date: 2018-07-24T22:11:23
+date: 2016-09-11T04:52:55
 lastmod: 2021-01-20T19:03:51+07:00
 url: /2021/01/the-fowler-and-the-viper
 tags:

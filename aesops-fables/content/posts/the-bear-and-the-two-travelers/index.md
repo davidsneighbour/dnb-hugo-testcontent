@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Bear and the Two Travelers"
 description: ""
-date: 2016-03-10T19:21:46
+date: 2014-11-17T09:55:53
 lastmod: 2021-01-20T19:02:34+07:00
 url: /2021/01/the-bear-and-the-two-travelers
 tags:

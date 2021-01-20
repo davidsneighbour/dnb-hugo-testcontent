@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Prophet"
 description: ""
-date: 2017-12-28T07:56:12
+date: 2019-01-15T02:44:00
 lastmod: 2021-01-20T19:03:40+07:00
 url: /2021/01/the-prophet
 tags:

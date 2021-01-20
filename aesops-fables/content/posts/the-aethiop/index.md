@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Aethiop"
 description: ""
-date: 2017-07-22T09:52:13
+date: 2013-09-06T16:07:07
 lastmod: 2021-01-20T19:02:59+07:00
 url: /2021/01/the-aethiop
 tags:

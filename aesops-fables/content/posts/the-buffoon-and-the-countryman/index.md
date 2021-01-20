@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Buffoon and the Countryman"
 description: ""
-date: 2018-08-17T22:42:39
+date: 2016-11-12T07:26:06
 lastmod: 2021-01-20T19:04:13+07:00
 url: /2021/01/the-buffoon-and-the-countryman
 tags:

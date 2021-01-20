@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Fawn and His Mother"
 description: ""
-date: 2019-07-26T14:17:09
+date: 2017-08-27T11:21:26
 lastmod: 2021-01-20T19:02:29+07:00
 url: /2021/01/the-fawn-and-his-mother
 tags:

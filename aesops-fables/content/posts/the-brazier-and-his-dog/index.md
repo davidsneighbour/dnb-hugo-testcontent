@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Brazier and His Dog"
 description: ""
-date: 2017-04-02T10:56:04
+date: 2012-09-17T06:21:29
 lastmod: 2021-01-20T19:03:12+07:00
 url: /2021/01/the-brazier-and-his-dog
 tags:

@@ -17,7 +17,9 @@ dirs("content/posts/").then (function(elements){
         if (err) {
           return console.log(err);
         }
-        const startDate = new Date(2015, 1, 1);
+        const startDate = new Date();
+        startDate.setFullYear(startDate.getFullYear() - 9);
+
         const endDate = new Date();
         const date = DateGenerator.getRandomDateInRange(startDate, endDate).toISOString().replace(/\..+/, '')
         const result = data.replace(/date: (.*)/g, 'date: ' + date);

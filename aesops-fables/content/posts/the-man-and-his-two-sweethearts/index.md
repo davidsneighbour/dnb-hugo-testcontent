@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Man and His Two Sweethearts"
 description: ""
-date: 2015-11-23T21:00:01
+date: 2015-10-03T13:48:12
 lastmod: 2021-01-20T19:02:48+07:00
 url: /2021/01/the-man-and-his-two-sweethearts
 tags:

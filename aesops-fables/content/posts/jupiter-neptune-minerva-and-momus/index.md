@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "Jupiter, Neptune, Minerva, and Momus"
 description: ""
-date: 2016-02-08T14:21:40
+date: 2014-01-14T02:08:56
 lastmod: 2021-01-20T19:04:03+07:00
 url: /2021/01/jupiter,-neptune,-minerva,-and-momus
 tags:

@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Bowman and Lion"
 description: ""
-date: 2020-09-20T14:52:25
+date: 2017-01-06T08:59:35
 lastmod: 2021-01-20T19:03:31+07:00
 url: /2021/01/the-bowman-and-lion
 tags:

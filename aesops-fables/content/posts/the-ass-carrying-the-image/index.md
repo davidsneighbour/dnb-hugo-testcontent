@@ -8,7 +8,7 @@
 # default front matter that you probably always need:
 title: "The Ass Carrying the Image"
 description: ""
-date: 2019-09-26T04:45:34
+date: 2016-10-28T19:05:00
 lastmod: 2021-01-20T19:03:09+07:00
 url: /2021/01/the-ass-carrying-the-image
 tags:
