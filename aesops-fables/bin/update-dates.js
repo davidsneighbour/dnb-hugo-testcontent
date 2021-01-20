@@ -2,18 +2,13 @@ const fs = require('fs')
 const DateGenerator = require('random-date-generator');
 const { readdir, stat } = require ("fs") .promises
 const { join } = require ("path")
-const dirs = async (path = "content/posts/") =>
-  (await stat (path)) .isDirectory ()
-    ? Promise
-      .all
-      ( (await readdir (path))
-        .map (p => dirs (join (path, p)))
-      )
-      .then
-      ( results =>
-        [] .concat (path, ...results)
-      )
-    : []
+const dirs = async (path = "content/posts/") => (await stat (path)) .isDirectory ()
+  ? Promise.all( (await readdir (path))
+      .map (p => dirs (join (path, p)))
+    ).then( results =>
+      [] .concat (path, ...results)
+    )
+  : [];
 
 dirs("content/posts/").then (function(elements){
   elements.forEach(function(value){
@@ -26,7 +21,6 @@ dirs("content/posts/").then (function(elements){
         const endDate = new Date();
         const date = DateGenerator.getRandomDateInRange(startDate, endDate).toISOString().replace(/\..+/, '')
         const result = data.replace(/date: (.*)/g, 'date: ' + date);
-
         fs.writeFile((value + '/index.md'), result, 'utf8', function (err) {
           if (err) return console.log(err);
         });
