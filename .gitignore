@@ -1,6 +1,6 @@
 /package-lock.json
 hugo.log
-/content/_new
+/content/*
 notes
 
 # Created by https://www.toptal.com/developers/gitignore/api/go,hugo,phpstorm+all,sonar,sonarqube,node,sublimetext
