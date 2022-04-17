@@ -1,17 +1,17 @@
 {
-  "name": "@dnb-org/dnb-hugo-testcontent",
+  "name": "@davidsneighbour/hugo-testcontent",
   "version": "1.0.4",
   "license": "MIT",
-  "description": "DNB's answer to the question 'What tags belong into the <head> tag of my website?'",
+  "description": "David's Neighbour test content project",
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com> (https://davids-neighbour.com)",
-  "homepage": "https://github.com/dnb-org/dnb-hugo-testcontent#readme",
-  "repository": "dnb-org/dnb-hugo-testcontent",
-  "bugs": "https://github.com/dnb-org/dnb-hugo-testcontent/issues",
+  "homepage": "https://github.com/davidsneighbour/hugo-testcontent",
+  "repository": "davidsneighbour/hugo-testcontent",
+  "bugs": "https://github.com/davidsneighbour/hugo-testcontent/issues",
   "devDependencies": {
-    "@dnb-org/remark-config": "^3.5.2",
-    "@dnb-org/standard-version-config": "^3.5.1",
-    "@dnb-org/textlint-config": "^3.5.2",
-    "@dnb-org/tools": "^3.5.1"
+    "@davidsneighbour/remark-config": "^4.0.1",
+    "@davidsneighbour/standard-version-config": "^4.0.1",
+    "@davidsneighbour/textlint-config": "^4.0.1",
+    "@davidsneighbour/tools": "^4.0.1"
   },
   "scripts": {
     "release": "standard-version --release-as patch -a -t \"v\" --releaseCommitMessageFormat \"chore(release): v{{currentTag}}\" && ./bin/release-hook-postrelease.sh",
@@ -21,8 +21,8 @@
   "private": true,
   "remarkConfig": {
     "plugins": [
-      "@dnb-org/remark-config"
+      "@davidsneighbour/remark-config"
     ]
   },
-  "slug": "dnb-hugo-testcontent"
+  "slug": "hugo-testcontent"
 }

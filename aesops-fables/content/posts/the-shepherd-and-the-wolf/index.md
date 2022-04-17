@@ -1,6 +1,6 @@
 ---
 
-# This is the dnb-hugo-garuda frontmatter template. 
+# This is the hugo-garuda frontmatter template.
 # Remove comments and items you won't need in your daily work with Hugo.
 # Copy a smaller version of this file to /archetypes/default.md in your
 # own repository to overwrite this version.
@@ -32,4 +32,4 @@ resources:
       title: "title"
 ---
 A SHEPHERD once found the whelp of a Wolf and brought it up, and after a while taught it to steal lambs from the neighboring flocks. The Wolf, having shown himself an apt pupil, said to the Shepherd, “Since you have taught me to steal, you must keep a sharp lookout, or you will lose some of your own flock.”
- 
+
