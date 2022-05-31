@@ -1,3 +1,3 @@
-module github.com/dnb-org/testcontent/the-iliad
+module github.com/davidsneighbour/hugo-testcontent/the-iliad
 
 go 1.17
